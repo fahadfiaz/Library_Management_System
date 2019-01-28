@@ -1,0 +1,53 @@
+.addbook{
+			width:300px;
+			
+			background-color:lightyellow;
+
+			border:2px solid black;
+			margin-top: 50px;
+			margin-bottom: 100px;
+			margin-right: 120px;
+			margin-left: 410px;	
+			
+			
+			
+			padding-top: 20px;
+			padding-right: 15px;
+			padding-bottom: 5px;
+			padding-left: 40px;
+			
+			
+			
+		}
+		.inputs{
+			border:1px black solid;
+			height:25px;
+			width:200px;
+			margin:7px;
+			margin-left:50px;
+			
+		}
+.space{
+			margin-left:120px;
+			padding-top: 15px;
+		}
+.error{
+		
+		
+			
+			
+			width:300px;
+			
+			background-color:lightyellow;
+
+		
+			color: red;
+			margin-top: -500px;
+			margin-bottom: 0px;
+			margin-right: 0px;
+			margin-left: 35px;	
+			
+			
+			
+}
+		
